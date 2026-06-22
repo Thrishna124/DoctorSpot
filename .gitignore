@@ -1,0 +1,18 @@
+# Virtual Environment
+cenv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+media/
+logs/
+
+# Machine Learning Models
+*.h5
+*.keras
+
+# Training Data
+lung_cancer/data/data/
