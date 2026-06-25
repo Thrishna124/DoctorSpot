@@ -181,7 +181,7 @@ DoctorSpot
 **Thrishna Balakrishnan**
 
 - GitHub: https://github.com/Thrishna124
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/thrishna-balakrishnan
   
 
   ## 📄 License
