@@ -143,7 +143,7 @@ DoctorSpot
 
 ## 🏗 System Architecture
 
-![](docs/architecture.png)
+![](doc/architecture.png)
 
 
 ## 🌟 Project Highlights
