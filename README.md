@@ -10,18 +10,17 @@ A full-stack healthcare analytics platform that integrates machine learning mode
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16-orange?logo=tensorflow)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-
 ## 📚 Table of Contents
 
-- [Overview](#-project-overview)
+- [Overview](#overview)
 - [Features](#-features)
-- [Technology Stack](#-tech-stack)
-- [Machine Learning Models](#-supported-disease-prediction-models)
-- [Screenshots](#-application-screenshots)
+- [Technology Stack](#-technology-stack)
+- [Supported Disease Prediction Models](#-supported-disease-prediction-models)
+- [Application Screenshots](#-application-screenshots)
 - [Installation](#-installation)
 - [Project Highlights](#-project-highlights)
 - [Project Statistics](#-project-statistics)
-- [Future Improvements](#-future-improvements)
+- [Future Enhancements](#future-enhancements)
 
 ## Overview
 
@@ -121,15 +120,34 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+## 📂 Project Structure
+
+```
+DoctorSpot
+│
+├── docspot/                # Django project configuration
+├── main_page/              # Authentication and patient management
+├── heart/                  # Heart disease prediction
+├── kidney/                 # Kidney disease prediction
+├── liver/                  # Liver disease prediction
+├── lungs/                  # Lung disease prediction
+├── lung_cancer/            # Lung cancer prediction
+├── pancreas/               # Diabetes prediction
+├── fitness/                # Fitness assessment
+├── media/
+├── screenshots/
+└── requirements.txt
+```
+
+
 ## 🌟 Project Highlights
 
-- Developed using Django 5 and Python
-- Integrated multiple Machine Learning models
-- Designed relational database using MySQL
-- Secure authentication and authorization
-- Dynamic patient dashboard
-- Historical prediction tracking
-- Modular architecture for scalable disease prediction
+- Built a modular Django application with separate apps for each disease prediction model.
+- Integrated multiple TensorFlow and Scikit-learn models for AI-assisted healthcare predictions.
+- Designed a normalized MySQL database for secure patient record management.
+- Implemented authentication, authorization, and session management using Django Authentication.
+- Developed an intelligent health scoring system based on disease prediction outcomes.
+- Created a scalable backend architecture that supports the addition of future prediction modules.
 
   ## 📈 Project Statistics
 
@@ -149,17 +167,14 @@ python manage.py runserver
 ## 🚀 Future Enhancements
 
 - Develop REST APIs using Django REST Framework
-- Containerize the application with Docker
 - Integrate Swagger/OpenAPI documentation
-- Implement JWT-based authentication
-- Add CI/CD using GitHub Actions
+- Containerize the application using Docker and Docker Compose
 - Deploy to Google Cloud Platform or Render
-- Introduce Redis caching and Celery for background tasks
-- Build an interactive analytics dashboard
+- Implement JWT Authentication
+- Add Redis caching
+- Introduce Celery for background processing
+- Configure CI/CD using GitHub Actions
 
-  ## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
@@ -168,6 +183,10 @@ This project is licensed under the MIT License.
 - GitHub: https://github.com/Thrishna124
 - LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
   
+
+  ## 📄 License
+
+This project is licensed under the MIT License.
 
   ## 📌 Repository
 
