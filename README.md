@@ -146,13 +146,28 @@ python manage.py runserver
 | Patient Management | ✔ |
 
 
-## Future Enhancements
+## 🚀 Future Enhancements
 
-* REST API Integration using Django REST Framework
-* Cloud Deployment
-* Healthcare Analytics Dashboard
-* Mobile Application Integration
-* Appointment Scheduling
+- Develop REST APIs using Django REST Framework
+- Containerize the application with Docker
+- Integrate Swagger/OpenAPI documentation
+- Implement JWT-based authentication
+- Add CI/CD using GitHub Actions
+- Deploy to Google Cloud Platform or Render
+- Introduce Redis caching and Celery for background tasks
+- Build an interactive analytics dashboard
+
+  ## 📄 License
+
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+
+**Thrishna Balakrishnan**
+
+- GitHub: https://github.com/Thrishna124
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+  
 
   ## 📌 Repository
 
