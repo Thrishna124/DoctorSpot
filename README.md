@@ -18,6 +18,8 @@ A full-stack healthcare analytics platform that integrates machine learning mode
 - [Supported Disease Prediction Models](#-supported-disease-prediction-models)
 - [Application Screenshots](#-application-screenshots)
 - [Installation](#-installation)
+- [Project Structure](#-project-structure)
+- [System Architecture](#-system-architecture)
 - [Project Highlights](#-project-highlights)
 - [Project Statistics](#-project-statistics)
 - [Future Enhancements](#future-enhancements)
@@ -138,6 +140,10 @@ DoctorSpot
 ├── screenshots/
 └── requirements.txt
 ```
+
+## 🏗 System Architecture
+
+![](docs/architecture.png)
 
 
 ## 🌟 Project Highlights
