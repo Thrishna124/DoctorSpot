@@ -20,7 +20,7 @@ A full-stack healthcare analytics platform that integrates machine learning mode
 - [Screenshots](#-application-screenshots)
 - [Installation](#-installation)
 - [Project Highlights](#-project-highlights)
-- [Project Statistics][#-project-statistics]
+- [Project Statistics](#-project-statistics)
 - [Future Improvements](#-future-improvements)
 
 ## Overview
