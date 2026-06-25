@@ -45,6 +45,22 @@ The platform integrates patient management, healthcare reporting, and predictive
 
 The platform follows Django's modular architecture with separate applications for each disease prediction module and centralized patient management functionality.
 
+## Login
+
+![Login](screenshots/login.png)
+
+---
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Disease Prediction
+
+![Prediction](screenshots/prediction_history.png)
+
 ## Future Enhancements
 
 * REST API Integration using Django REST Framework
