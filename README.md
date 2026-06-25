@@ -1,4 +1,8 @@
-# DoctorSpot – Multi-Disease Healthcare Prediction Platform
+# AI-Powered Healthcare Analytics Platform
+
+### DoctorSpot
+
+A full-stack healthcare analytics platform that integrates machine learning models for disease prediction and patient health monitoring.
 
 ## Overview
 
