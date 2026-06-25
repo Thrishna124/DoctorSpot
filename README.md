@@ -47,19 +47,19 @@ The platform follows Django's modular architecture with separate applications fo
 
 ## Login
 
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ---
 
 ## Disease Prediction
 
-![Prediction](screenshots/prediction_history.png)
+![Prediction](screenshots/Prediction_history.png)
 
 ## Future Enhancements
 
