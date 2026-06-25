@@ -145,6 +145,9 @@ DoctorSpot
 
 ![](doc/architecture.png)
 
+## 🗄 Database Schema
+
+![Database Schema](doc/database_schema.png)
 
 ## 🌟 Project Highlights
 
